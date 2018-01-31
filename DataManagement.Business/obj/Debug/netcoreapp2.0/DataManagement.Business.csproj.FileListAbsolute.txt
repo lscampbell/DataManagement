@@ -1,0 +1,15 @@
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Business/bin/Debug/netcoreapp2.0/DataManagement.Business.deps.json
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Business/bin/Debug/netcoreapp2.0/DataManagement.Business.dll
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Business/bin/Debug/netcoreapp2.0/DataManagement.Business.pdb
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Business/bin/Debug/netcoreapp2.0/DataManagement.Business.Interfaces.dll
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Business/bin/Debug/netcoreapp2.0/DataManagement.Entities.dll
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Business/bin/Debug/netcoreapp2.0/DataManagement.Repository.Interfaces.dll
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Business/bin/Debug/netcoreapp2.0/DataManagement.Entities.pdb
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Business/bin/Debug/netcoreapp2.0/DataManagement.Business.Interfaces.pdb
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Business/bin/Debug/netcoreapp2.0/DataManagement.Repository.Interfaces.pdb
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Business/obj/Debug/netcoreapp2.0/DataManagement.Business.csproj.CoreCompileInputs.cache
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Business/obj/Debug/netcoreapp2.0/DataManagement.Business.AssemblyInfoInputs.cache
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Business/obj/Debug/netcoreapp2.0/DataManagement.Business.AssemblyInfo.cs
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Business/obj/Debug/netcoreapp2.0/DataManagement.Business.dll
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Business/obj/Debug/netcoreapp2.0/DataManagement.Business.pdb
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Business/obj/Debug/netcoreapp2.0/DataManagement.Business.csprojResolveAssemblyReference.cache

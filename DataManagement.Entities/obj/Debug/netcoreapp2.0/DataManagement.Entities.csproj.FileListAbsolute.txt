@@ -1,0 +1,9 @@
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Entities/bin/Debug/netcoreapp2.0/DataManagement.Entities.deps.json
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Entities/bin/Debug/netcoreapp2.0/DataManagement.Entities.dll
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Entities/bin/Debug/netcoreapp2.0/DataManagement.Entities.pdb
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Entities/obj/Debug/netcoreapp2.0/DataManagement.Entities.csproj.CoreCompileInputs.cache
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Entities/obj/Debug/netcoreapp2.0/DataManagement.Entities.AssemblyInfoInputs.cache
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Entities/obj/Debug/netcoreapp2.0/DataManagement.Entities.AssemblyInfo.cs
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Entities/obj/Debug/netcoreapp2.0/DataManagement.Entities.dll
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Entities/obj/Debug/netcoreapp2.0/DataManagement.Entities.pdb
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Entities/obj/Debug/netcoreapp2.0/DataManagement.Entities.csprojResolveAssemblyReference.cache

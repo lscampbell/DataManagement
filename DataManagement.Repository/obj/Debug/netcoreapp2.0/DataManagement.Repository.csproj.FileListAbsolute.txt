@@ -1,0 +1,13 @@
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Repository/bin/Debug/netcoreapp2.0/DataManagement.Repository.deps.json
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Repository/bin/Debug/netcoreapp2.0/DataManagement.Repository.dll
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Repository/bin/Debug/netcoreapp2.0/DataManagement.Repository.pdb
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Repository/bin/Debug/netcoreapp2.0/DataManagement.Entities.dll
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Repository/bin/Debug/netcoreapp2.0/DataManagement.Repository.Interfaces.dll
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Repository/bin/Debug/netcoreapp2.0/DataManagement.Entities.pdb
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Repository/bin/Debug/netcoreapp2.0/DataManagement.Repository.Interfaces.pdb
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Repository/obj/Debug/netcoreapp2.0/DataManagement.Repository.csproj.CoreCompileInputs.cache
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Repository/obj/Debug/netcoreapp2.0/DataManagement.Repository.AssemblyInfoInputs.cache
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Repository/obj/Debug/netcoreapp2.0/DataManagement.Repository.AssemblyInfo.cs
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Repository/obj/Debug/netcoreapp2.0/DataManagement.Repository.dll
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Repository/obj/Debug/netcoreapp2.0/DataManagement.Repository.pdb
+/Users/leecampbell/dotnet/DataManagement/DataManagement.Repository/obj/Debug/netcoreapp2.0/DataManagement.Repository.csprojResolveAssemblyReference.cache
